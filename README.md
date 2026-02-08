@@ -20,7 +20,7 @@ El objetivo es aplicar operaciones matemáticas, manipulación de arrays, agrupa
 
 ## Estructura del proyecto
 
-'''
+```
 ├── data/
 │ └── ventas_manzanas.csv
 │
@@ -30,7 +30,7 @@ El objetivo es aplicar operaciones matemáticas, manipulación de arrays, agrupa
 ├── README.md
 └── .gitignore
 ---
-'''
+```
 
 
 ## Contenido del análisis
